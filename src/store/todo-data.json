@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Complete Todo App on Frontend Mentor",
+    "complete": false
+  },
+  {
+    "title": "Pick up groceries",
+    "complete": false
+  },
+  {
+    "title": "Read for 1 hour",
+    "complete": false
+  },
+  {
+    "title": "10 minutes meditation",
+    "complete": false
+  },
+  {
+    "title": "Jog around the park 3x",
+    "complete": false
+  },
+  {
+    "title": "Complete online JavaScript course",
+    "complete": true
+  }
+]
