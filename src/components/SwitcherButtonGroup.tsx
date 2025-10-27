@@ -26,7 +26,7 @@ export default function SwitcherButtonGroup<B extends Button>({
             className={clsx(
               isActive
                 ? "text-accent"
-                : "hover:text-card-tinted-hover hover:dark:text-card-tinted-hover-dark",
+                : "hover:text-body-hover hover:dark:text-body-hover-dark",
               "font-bold cursor-pointer"
             )}
           >
